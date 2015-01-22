@@ -1,4 +1,4 @@
-''' rot133 
+''' rot13 
 	File: cha5.txt
 '''
 
