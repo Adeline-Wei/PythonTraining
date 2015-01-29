@@ -1,3 +1,8 @@
+''' Goal:	   	Decrypt a jpg file
+	Read file: 	encrypt_xor.jpg
+	Write file:	doraemon.jpg
+'''
+
 from itertools import cycle, izip
 
 with open("encrypt_xor.jpg", "rb") as f:

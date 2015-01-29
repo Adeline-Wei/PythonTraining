@@ -1,3 +1,7 @@
+''' Goal:	   Find 5 hashed strings with the first three characters formed by "ABC" 
+	Read file: None
+'''
+
 import hashlib
 import os
 import time
